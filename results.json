@@ -6,16 +6,16 @@
     {
       "describe": "call/1",
       "file": "/home/romulohe4rt/Development/ignite_curso/projects/ignite-elixir-utilizando-recursao/test/list_lenght_test.exs",
-      "line": 5,
+      "line": 15,
       "module": "Elixir.ListLengthTest",
-      "test": "test call/1 count list elements"
+      "test": "test call/1 passing an empty list"
     },
     {
       "describe": "call/1",
       "file": "/home/romulohe4rt/Development/ignite_curso/projects/ignite-elixir-utilizando-recursao/test/list_lenght_test.exs",
-      "line": 15,
+      "line": 5,
       "module": "Elixir.ListLengthTest",
-      "test": "test call/1 passing an empty list"
+      "test": "test call/1 count list elements"
     }
   ],
   "skiped": []
